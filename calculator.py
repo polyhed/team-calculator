@@ -7,6 +7,11 @@ def add(a, b):
 =======
 "# Калькулятор" 
 
+<<<<<<< HEAD
 def subtract(a, b):
     return a - b
 >>>>>>> participant2_subtraction
+=======
+def multiply(a, b):
+    return a * b
+>>>>>>> participant3_multiplication
